@@ -1,0 +1,5 @@
+# Stub file to update references to this repository via Dependabot
+[package]
+name = "reference-values"
+version = "0.1.0"
+edition = "2024"
